@@ -14,4 +14,4 @@ ng build files for the front end of MEAN taskmanager
 Open index.html
 
 ## Launch
-[Portfolio](https://pulkit-suryavanshi.github.io/FrontEndForTaskManagerMEAN/)
+[Task Manager Mean](https://pulkit-suryavanshi.github.io/FrontEndForTaskManagerMEAN/)
